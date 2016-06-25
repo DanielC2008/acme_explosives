@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Fire",
+            "description": "Shoots fire"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Water",
+            "description": "Shoots water"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "Ice",
+            "description": "Shoots ice"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Buildings",
+            "description": "Demos buildings"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Boats",
+            "description": "Demos boats"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Vegetation",
+            "description": "Demos vegetation"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"C:\\Users\\Joseph\\workspace\\exercises\\mjd\\acme-explosives\\gulpfile.js":{"sha1":"1f991cc9a91a8bc708546f34119f8acd6ebf0493","tasks":{"default":{"name":"default","dependencies":"lint watch"},"watch":{"name":"watch","dependencies":""},"lint":{"name":"lint","dependencies":""}}}}

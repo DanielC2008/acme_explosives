@@ -1,0 +1,112 @@
+{
+    "products": [{
+        "Fire_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fire Sparklers",
+            "description": "Multi-colored Fire Sparklers that are safe for any age."
+        },
+        "Fire_spriklers": {
+            "id": 1,
+            "type": 0,
+            "name": "Fire Sprinklers",
+            "description": "Multi-colored Fire Sprinklers that are safe for any age."
+        },
+        "Fire_smokers": {
+            "id": 2,
+            "type": 0,
+            "name": "Fire Smokers",
+            "description": "Multi-colored Fire Smokers that are safe for any age."
+        },
+        "Water_sparklers": {
+            "id": 3,
+            "type": 1,
+            "name": "Water Sparklers",
+            "description": "Multi-colored Water Sparklers that are safe for any age."
+        },
+        "Water_spriklers": {
+            "id": 4,
+            "type": 1,
+            "name": "Water Sprinklers",
+            "description": "Multi-colored Water Sprinklers that are safe for any age."
+        },
+        "Water_smokers": {
+            "id": 5,
+            "type": 1,
+            "name": "Water Smokers",
+            "description": "Multi-colored Water Smokers that are safe for any age."
+        },
+        "Ice_sparklers": {
+            "id": 6,
+            "type": 2,
+            "name": "Ice Sparklers",
+            "description": "Multi-colored Ice Sparklers that are safe for any age."
+        },
+        "Ice_spriklers": {
+            "id": 7,
+            "type": 2,
+            "name": "Ice Sprinklers",
+            "description": "Multi-colored Ice Sprinklers that are safe for any age."
+        },
+        "Ice_smokers": {
+            "id": 8,
+            "type": 2,
+            "name": "Ice Smokers",
+            "description": "Multi-colored Ice Smokers that are safe for any age."
+        },
+        "Building_boomers": {
+            "id": 9,
+            "type": 3,
+            "name": "Building Boomers",
+            "description": "Building Boomers destory things."
+        },
+        "Building_melters": {
+            "id": 10,
+            "type": 3,
+            "name": "Building Melters",
+            "description": "Building Melters destroy things."
+        },
+        "Building_smashers": {
+            "id": 11,
+            "type": 3,
+            "name": "Building Smashers",
+            "description": "Building Smashers destroy things."
+        },
+        "Boat_boomers": {
+            "id": 12,
+            "type": 4,
+            "name": "Boat Boomers",
+            "description": "Boat Boomers destory things."
+        },
+        "Boat_melters": {
+            "id": 13,
+            "type": 4,
+            "name": "Boat Melters",
+            "description": "Boat Melters destroy things."
+        },
+        "Boat_smashers": {
+            "id": 14,
+            "type": 4,
+            "name": "Boat Smashers",
+            "description": "Boat Smashers destroy things."
+        },
+        "Vegetation_boomers": {
+            "id": 15,
+            "type": 5,
+            "name": "Vegetation Boomers",
+            "description": "Vegetation Boomers destory things."
+        },
+        "Vegetation_melters": {
+            "id": 16,
+            "type": 5,
+            "name": "Vegetation Melters",
+            "description": "Vegetation Melters destroy things."
+        },
+        "Vegetation_smashers": {
+            "id": 17,
+            "type": 5,
+            "name": "Vegetation Smashers",
+            "description": "Vegetation Smashers destroy things."
+        }
+    }]
+}
